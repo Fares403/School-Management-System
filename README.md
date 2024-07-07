@@ -1,7 +1,3 @@
-# School-Management-System
-Certainly! Here's a suggested README template for your GitHub repository for the School Management System project:
-
----
 
 # School Management System
 
@@ -50,10 +46,6 @@ This project implements a School Management System using object-oriented program
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
