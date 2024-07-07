@@ -18,20 +18,7 @@ This project implements a School Management System using object-oriented program
 - **Course**: Manages course details, student enrollments, and grades.
 - **School**: Manages collections of students, teachers, and courses. Provides methods for operations across these entities.
 
-## Usage
-
-1. **Setup**:
-   - Clone the repository: `git clone https://github.com/your-username/school-management-system.git`
-   - Navigate into the project directory: `cd school-management-system`
-
-2. **Run the Program**:
-   - Execute the main program: `python school_management_system.py`
-
-3. **Operations**:
-   - Test various functionalities such as enrolling students, assigning grades, marking attendance, and calculating GPA.
-
 ## Example Usage
-
 ```python
 # Create instances of School, Students, Teachers, and Courses
 # Perform operations such as enrollment, grade assignment, attendance marking
