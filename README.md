@@ -50,7 +50,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Acknowledgments
 
 - Mention any references, tutorials, or inspiration you used in developing this project.
-
----
-
-Adjust the sections and content as per your project specifics and preferences. This template provides a structured overview of your School Management System project, highlighting key features, usage instructions, and how to contribute to the repository.
